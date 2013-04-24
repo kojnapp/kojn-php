@@ -1,4 +1,6 @@
 kojn-php
 ========
 
-Kojn PHP Lib
+Kojn PHP API Library
+
+TODO :)
