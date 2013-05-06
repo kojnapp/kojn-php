@@ -19,7 +19,7 @@ Feel free to fork, modify & redistribute under the MIT license.
 
 (TODO: Write inline docs)
 
-Latest dacs can be found here: https://kojn.nl/developer/docs/php_setup
+Latest docs can be found here: https://kojn.nl/developer/docs/php_setup
 
 ## Contributing
 
