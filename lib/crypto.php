@@ -3,8 +3,8 @@
     private $access_token;
     private $crypt_method;
 
-    public function __construct($api_key) {
-      $this->access_token = $api_key;
+    public function __construct() {
+      $this->access_token = Kojn::$api_key;
       $this->crypt_method = "AES-256-CFB";
     }
 
