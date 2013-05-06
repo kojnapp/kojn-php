@@ -12,7 +12,7 @@ Feel free to fork, modify & redistribute under the MIT license.
 
 2) Include
 
-    <?php include_onnce('kojn.php'); ?>2) Include
+    <?php include_onnce('kojn.php'); ?>
 
 
 ## Usage
