@@ -3,6 +3,9 @@ include_once('lib/crypto.php');
 include_once('lib/utils.php');
 
 class Kojn {
+  // The singleton instance
+  protected static $_instance;
+
   // Constants
   const Ipn = Test;
 
@@ -17,7 +20,7 @@ class Kojn {
   // Type of ipn security
   public static $ipn_sec;
 
-  public function __construct($key, $ipn_sec='itegrity') {
+  public function init_base() {
     // Set the access token
     Kojn::$api_key = $key;
 
@@ -26,6 +29,15 @@ class Kojn {
 
     // Initialize Kojn's crypto module
     Kojn::$crypto = null; // new KojnCrypto();
+  }
+
+  public static function setup($func) {
+    self::$_instance = new Kojn();
+    $func(Kojn::getInstance());
+
+    Kojn::getInstance()->init_base();
+
+    return Kojn::getInstance();
   }
 
   // Helper method for doing http(s) requests.
@@ -47,7 +59,7 @@ class Kojn {
     curl_setopt($curl, CURLOPT_HTTPHEADER, $header);
     curl_setopt($curl, CURLOPT_TIMEOUT, 10);
     curl_setopt($curl, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
-    curl_setopt($curl, CURLOPT_USERPWD, Kojn::$api_key);
+    curl_setopt($curl, CURLOPT_USERPWD, self::$api_key);
     curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, 1);
     curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, 2);
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
@@ -77,7 +89,11 @@ class Kojn {
   }
 }
 
-global $kojn;
-$kojn = new Kojn('1234');
+// TODO
+function Kojn_create_invoice(...) {
+}
+
+function Kojn_list_invoices(...) {
+}
 
 ?>
