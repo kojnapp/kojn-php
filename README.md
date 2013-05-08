@@ -11,21 +11,24 @@ Feel free to fork, modify & redistribute under the MIT license.
     git clone git://github.com/kojnapp/kojn-php.git
 
 2) Include
-
-    <? include_once('kojn.php'); ?>
+```php
+include_once('kojn.php');
+```
     
 
 ## Usage
 
 ### Setup
-
-    $kojn = Kojn::setup(function($config) {
-      $config::$api_key = "YOUR_API_KEY"; 
-    });
+```php
+$kojn = Kojn::setup(function($config) {
+  $config::$api_key = "YOUR_API_KEY"; 
+});
+```
     
 ### Listing invoices
-    
-    $invoices = Kojn_list_invoices($kojn);
+```php    
+$invoices = Kojn_list_invoices($kojn);
+```
     
 ### Creating invoices
 ```php
