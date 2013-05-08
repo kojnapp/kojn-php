@@ -17,7 +17,7 @@ $kojn = Kojn::setup(function($config) {
 });
 
 Kojn::log("Fetching all transactions");
-//var_dump(Kojn_list_invoices($kojn));
+var_dump(Kojn_list_invoices($kojn));
 
 Kojn::log("Creating new invoice");
 var_dump(Kojn_create_invoice($kojn, array(
