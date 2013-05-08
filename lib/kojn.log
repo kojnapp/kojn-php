@@ -324,3 +324,1293 @@
 08-05 12:24:04: Fetching all transactions
 08-05 12:24:04: Retrieve data from `localhost:3000/api/invoices'
 08-05 12:24:04: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 16:32:23: This app serves as a php Kojn PHP test.
+08-05 16:32:23: {"hello":"world"}
+08-05 16:32:23: in #setup - Setting up kojn
+08-05 16:32:23: Fetching all transactions
+08-05 16:32:23: Retrieve data from `localhost:3000/api/invoices'
+08-05 16:32:23: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 16:33:10: This app serves as a php Kojn PHP test.
+08-05 16:33:10: {"hello":"world"}
+08-05 16:33:10: in #setup - Setting up kojn
+08-05 16:33:10: Fetching all transactions
+08-05 16:33:10: Retrieve data from `localhost:3000/api/invoices'
+08-05 16:33:10: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mmkLbd3bx7vDcY64EYtQnif8bSSGneeTYP","currency":"btc","amount":"0.01192","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"83.89194000000001","description":"test","external_id":"100","status":1,"internal_id":"7892e2afed161e9d677deb010d7454fc","seen":false,"amount_left":"0.01192","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 19:19:18: This app serves as a php Kojn PHP test.
+08-05 19:19:18: {"hello":"world"}
+08-05 19:19:18: in #setup - Setting up kojn
+08-05 19:19:18: Fetching all transactions
+08-05 19:19:18: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:19:18: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mmkLbd3bx7vDcY64EYtQnif8bSSGneeTYP","currency":"btc","amount":"0.01192","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"83.89194000000001","description":"test","external_id":"100","status":1,"internal_id":"7892e2afed161e9d677deb010d7454fc","seen":false,"amount_left":"0.01192","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mm627J6B5DFFXnvNQoBPhmvJMfZ1DzQHvo","currency":"btc","amount":"0.011794","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79122","description":"Test","external_id":null,"status":1,"internal_id":"8c1b0d297dd2609add3d61828d66d266","seen":false,"amount_left":"0.011794","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"msvfDJAC6qV4EFbfxpmQcUNcuN6W37VjxV","currency":"btc","amount":"0.011793","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79627000000001","description":"Test","external_id":null,"status":1,"internal_id":"9e09d19b71c74b2cb6f3edfe8990c0d0","seen":false,"amount_left":"0.011793","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 19:36:42: This app serves as a php Kojn PHP test.
+08-05 19:36:42: {"hello":"world"}
+08-05 19:36:42: in #setup - Setting up kojn
+08-05 19:36:42: Fetching all transactions
+08-05 19:36:42: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:36:42: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mmkLbd3bx7vDcY64EYtQnif8bSSGneeTYP","currency":"btc","amount":"0.01192","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"83.89194000000001","description":"test","external_id":"100","status":1,"internal_id":"7892e2afed161e9d677deb010d7454fc","seen":false,"amount_left":"0.01192","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mm627J6B5DFFXnvNQoBPhmvJMfZ1DzQHvo","currency":"btc","amount":"0.011794","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79122","description":"Test","external_id":null,"status":1,"internal_id":"8c1b0d297dd2609add3d61828d66d266","seen":false,"amount_left":"0.011794","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"msvfDJAC6qV4EFbfxpmQcUNcuN6W37VjxV","currency":"btc","amount":"0.011793","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79627000000001","description":"Test","external_id":null,"status":1,"internal_id":"9e09d19b71c74b2cb6f3edfe8990c0d0","seen":false,"amount_left":"0.011793","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 19:36:42: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:36:42: curl response <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Action Controller: Exception caught</title>
+  <style>
+    body {
+      background-color: #FAFAFA;
+      color: #333;
+      margin: 0px;
+    }
+
+    body, p, ol, ul, td {
+      font-family: helvetica, verdana, arial, sans-serif;
+      font-size:   13px;
+      line-height: 18px;
+    }
+
+    pre {
+      font-size: 11px;
+      white-space: pre-wrap;
+    }
+
+    pre.box {
+      border: 1px solid #EEE;
+      padding: 10px;
+      margin: 0px;
+      width: 958px;
+    }
+
+    header {
+      color: #F0F0F0;
+      background: #C52F24;
+      padding: 0.5em 1.5em;
+    }
+
+    h2 {
+      color: #C52F24;
+      line-height: 25px;
+    }
+
+    .details {
+      border: 1px solid #D0D0D0;
+      border-radius: 4px;
+      margin: 1em 0px;
+      display: block;
+      width: 978px;
+    }
+
+    .summary {
+      padding: 8px 15px;
+      border-bottom: 1px solid #D0D0D0;
+      display: block;
+    }
+
+    .details pre {
+      margin: 5px;
+      border: none;
+    }
+
+    #container {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 0 1.5em;
+    }
+
+    .source * {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .source {
+      border: 1px solid #D9D9D9;
+      background: #ECECEC;
+      width: 978px;
+    }
+
+    .source pre {
+      padding: 10px 0px;
+      border: none;
+    }
+
+    .source .data {
+      font-size: 80%;
+      overflow: auto;
+      background-color: #FFF;
+    }
+
+    .info {
+      padding: 0.5em;
+    }
+
+    .source .data .line_numbers {
+      background-color: #ECECEC;
+      color: #AAA;
+      padding: 1em .5em;
+      border-right: 1px solid #DDD;
+      text-align: right;
+    }
+
+    .line {
+      padding-left: 10px;
+    }
+
+    .line:hover {
+      background-color: #F6F6F6;
+    }
+
+    .line.active {
+      background-color: #FFCCCC;
+    }
+
+    a { color: #980905; }
+    a:visited { color: #666; }
+    a:hover { color: #C52F24; }
+
+    
+  </style>
+
+  <script>
+    var toggle = function(id) {
+      var s = document.getElementById(id).style;
+      s.display = s.display == 'none' ? 'block' : 'none';
+      return false;
+    }
+    var show = function(id) {
+      document.getElementById(id).style.display = 'block';
+    }
+    var hide = function(id) {
+      document.getElementById(id).style.display = 'none';
+    }
+    var toggleTrace = function() {
+      return toggle('blame_trace');
+    }
+    var toggleSessionDump = function() {
+      return toggle('session_dump');
+    }
+    var toggleEnvDump = function() {
+      return toggle('env_dump');
+    }
+  </script>
+</head>
+<body>
+
+<header>
+  <h1>
+    ActionController::ParameterMissing
+      in Api::V1::InvoicesController#create
+  </h1>
+</header>
+
+<div id="container">
+  <h2>param not found: invoice</h2>
+
+  <div class="source">
+<div class="info">
+  Extracted source (around line <strong>#59</strong>):
+</div>
+<div class="data">
+  <table cellpadding="0" cellspacing="0" class="lines">
+      <tr>
+        <td>
+          <pre class="line_numbers">
+<span>57</span>
+<span>58</span>
+<span>59</span>
+<span>60</span>
+<span>61</span>
+          </pre>
+        </td>
+<td width="100%">
+<pre>
+<div class="line">  protected
+</div><div class="line">  def invoice_params
+</div><div class="line active">    params.require(:invoice).permit(:amount_in_euro, :external_id, :description)
+</div><div class="line">  end
+</div><div class="line">end
+</div>
+</pre>
+</td>
+    </tr>
+  </table>
+</div>
+</div>
+
+  
+<p><code>Rails.root: /Users/jeffrey/work/kojn_coll/kojn</code></p>
+
+<div id="traces">
+    <a href="#" onclick="hide(&#39;Framework-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Application-Trace&#39;);; return false;">Application Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Framework-Trace&#39;);; return false;">Framework Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Framework-Trace&#39;);show(&#39;Full-Trace&#39;);; return false;">Full Trace</a> 
+
+    <div id="Application-Trace" style="display: block;">
+      <pre><code>app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;</code></pre>
+    </div>
+    <div id="Framework-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+    <div id="Full-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+</div>
+
+  
+
+<h2 style="margin-top: 30px">Request</h2>
+<p><b>Parameters</b>:</p> <pre>{&quot;format&quot;=&gt;&quot;json&quot;,
+ &quot;invoice&quot;=&gt;{}}</pre>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleSessionDump()">Toggle session dump</a></div>
+  <div id="session_dump" style="display:none"><pre></pre></div>
+</div>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleEnvDump()">Toggle env dump</a></div>
+  <div id="env_dump" style="display:none"><pre>HTTP_ACCEPT: &quot;*/*&quot;
+REMOTE_ADDR: &quot;127.0.0.1&quot;
+SERVER_NAME: &quot;localhost&quot;
+SERVER_PROTOCOL: &quot;HTTP/1.1&quot;</pre></div>
+</div>
+
+<h2 style="margin-top: 30px">Response</h2>
+<p><b>Headers</b>:</p> <pre>None</pre>
+
+</div>
+
+
+</body>
+</html>
+
+08-05 19:37:34: This app serves as a php Kojn PHP test.
+08-05 19:37:34: {"hello":"world"}
+08-05 19:37:34: in #setup - Setting up kojn
+08-05 19:37:34: Fetching all transactions
+08-05 19:37:34: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:37:34: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mmkLbd3bx7vDcY64EYtQnif8bSSGneeTYP","currency":"btc","amount":"0.01192","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"83.89194000000001","description":"test","external_id":"100","status":1,"internal_id":"7892e2afed161e9d677deb010d7454fc","seen":false,"amount_left":"0.01192","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mm627J6B5DFFXnvNQoBPhmvJMfZ1DzQHvo","currency":"btc","amount":"0.011794","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79122","description":"Test","external_id":null,"status":1,"internal_id":"8c1b0d297dd2609add3d61828d66d266","seen":false,"amount_left":"0.011794","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"msvfDJAC6qV4EFbfxpmQcUNcuN6W37VjxV","currency":"btc","amount":"0.011793","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79627000000001","description":"Test","external_id":null,"status":1,"internal_id":"9e09d19b71c74b2cb6f3edfe8990c0d0","seen":false,"amount_left":"0.011793","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 19:37:34: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:37:34: curl response <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Action Controller: Exception caught</title>
+  <style>
+    body {
+      background-color: #FAFAFA;
+      color: #333;
+      margin: 0px;
+    }
+
+    body, p, ol, ul, td {
+      font-family: helvetica, verdana, arial, sans-serif;
+      font-size:   13px;
+      line-height: 18px;
+    }
+
+    pre {
+      font-size: 11px;
+      white-space: pre-wrap;
+    }
+
+    pre.box {
+      border: 1px solid #EEE;
+      padding: 10px;
+      margin: 0px;
+      width: 958px;
+    }
+
+    header {
+      color: #F0F0F0;
+      background: #C52F24;
+      padding: 0.5em 1.5em;
+    }
+
+    h2 {
+      color: #C52F24;
+      line-height: 25px;
+    }
+
+    .details {
+      border: 1px solid #D0D0D0;
+      border-radius: 4px;
+      margin: 1em 0px;
+      display: block;
+      width: 978px;
+    }
+
+    .summary {
+      padding: 8px 15px;
+      border-bottom: 1px solid #D0D0D0;
+      display: block;
+    }
+
+    .details pre {
+      margin: 5px;
+      border: none;
+    }
+
+    #container {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 0 1.5em;
+    }
+
+    .source * {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .source {
+      border: 1px solid #D9D9D9;
+      background: #ECECEC;
+      width: 978px;
+    }
+
+    .source pre {
+      padding: 10px 0px;
+      border: none;
+    }
+
+    .source .data {
+      font-size: 80%;
+      overflow: auto;
+      background-color: #FFF;
+    }
+
+    .info {
+      padding: 0.5em;
+    }
+
+    .source .data .line_numbers {
+      background-color: #ECECEC;
+      color: #AAA;
+      padding: 1em .5em;
+      border-right: 1px solid #DDD;
+      text-align: right;
+    }
+
+    .line {
+      padding-left: 10px;
+    }
+
+    .line:hover {
+      background-color: #F6F6F6;
+    }
+
+    .line.active {
+      background-color: #FFCCCC;
+    }
+
+    a { color: #980905; }
+    a:visited { color: #666; }
+    a:hover { color: #C52F24; }
+
+    
+  </style>
+
+  <script>
+    var toggle = function(id) {
+      var s = document.getElementById(id).style;
+      s.display = s.display == 'none' ? 'block' : 'none';
+      return false;
+    }
+    var show = function(id) {
+      document.getElementById(id).style.display = 'block';
+    }
+    var hide = function(id) {
+      document.getElementById(id).style.display = 'none';
+    }
+    var toggleTrace = function() {
+      return toggle('blame_trace');
+    }
+    var toggleSessionDump = function() {
+      return toggle('session_dump');
+    }
+    var toggleEnvDump = function() {
+      return toggle('env_dump');
+    }
+  </script>
+</head>
+<body>
+
+<header>
+  <h1>
+    ActionController::ParameterMissing
+      in Api::V1::InvoicesController#create
+  </h1>
+</header>
+
+<div id="container">
+  <h2>param not found: invoice</h2>
+
+  <div class="source">
+<div class="info">
+  Extracted source (around line <strong>#59</strong>):
+</div>
+<div class="data">
+  <table cellpadding="0" cellspacing="0" class="lines">
+      <tr>
+        <td>
+          <pre class="line_numbers">
+<span>57</span>
+<span>58</span>
+<span>59</span>
+<span>60</span>
+<span>61</span>
+          </pre>
+        </td>
+<td width="100%">
+<pre>
+<div class="line">  protected
+</div><div class="line">  def invoice_params
+</div><div class="line active">    params.require(:invoice).permit(:amount_in_euro, :external_id, :description)
+</div><div class="line">  end
+</div><div class="line">end
+</div>
+</pre>
+</td>
+    </tr>
+  </table>
+</div>
+</div>
+
+  
+<p><code>Rails.root: /Users/jeffrey/work/kojn_coll/kojn</code></p>
+
+<div id="traces">
+    <a href="#" onclick="hide(&#39;Framework-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Application-Trace&#39;);; return false;">Application Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Framework-Trace&#39;);; return false;">Framework Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Framework-Trace&#39;);show(&#39;Full-Trace&#39;);; return false;">Full Trace</a> 
+
+    <div id="Application-Trace" style="display: block;">
+      <pre><code>app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;</code></pre>
+    </div>
+    <div id="Framework-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+    <div id="Full-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+</div>
+
+  
+
+<h2 style="margin-top: 30px">Request</h2>
+<p><b>Parameters</b>:</p> <pre>{&quot;format&quot;=&gt;&quot;json&quot;,
+ &quot;invoice&quot;=&gt;{}}</pre>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleSessionDump()">Toggle session dump</a></div>
+  <div id="session_dump" style="display:none"><pre></pre></div>
+</div>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleEnvDump()">Toggle env dump</a></div>
+  <div id="env_dump" style="display:none"><pre>HTTP_ACCEPT: &quot;*/*&quot;
+REMOTE_ADDR: &quot;127.0.0.1&quot;
+SERVER_NAME: &quot;localhost&quot;
+SERVER_PROTOCOL: &quot;HTTP/1.1&quot;</pre></div>
+</div>
+
+<h2 style="margin-top: 30px">Response</h2>
+<p><b>Headers</b>:</p> <pre>None</pre>
+
+</div>
+
+
+</body>
+</html>
+
+08-05 19:38:14: This app serves as a php Kojn PHP test.
+08-05 19:38:14: {"hello":"world"}
+08-05 19:38:14: in #setup - Setting up kojn
+08-05 19:38:14: Fetching all transactions
+08-05 19:38:14: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:38:14: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mmkLbd3bx7vDcY64EYtQnif8bSSGneeTYP","currency":"btc","amount":"0.01192","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"83.89194000000001","description":"test","external_id":"100","status":1,"internal_id":"7892e2afed161e9d677deb010d7454fc","seen":false,"amount_left":"0.01192","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"mm627J6B5DFFXnvNQoBPhmvJMfZ1DzQHvo","currency":"btc","amount":"0.011794","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79122","description":"Test","external_id":null,"status":1,"internal_id":"8c1b0d297dd2609add3d61828d66d266","seen":false,"amount_left":"0.011794","redirect_uri":null,"received_amount_in_euro":"0.0"},{"address":"msvfDJAC6qV4EFbfxpmQcUNcuN6W37VjxV","currency":"btc","amount":"0.011793","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"84.79627000000001","description":"Test","external_id":null,"status":1,"internal_id":"9e09d19b71c74b2cb6f3edfe8990c0d0","seen":false,"amount_left":"0.011793","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 19:38:14: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:38:14: curl response <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Action Controller: Exception caught</title>
+  <style>
+    body {
+      background-color: #FAFAFA;
+      color: #333;
+      margin: 0px;
+    }
+
+    body, p, ol, ul, td {
+      font-family: helvetica, verdana, arial, sans-serif;
+      font-size:   13px;
+      line-height: 18px;
+    }
+
+    pre {
+      font-size: 11px;
+      white-space: pre-wrap;
+    }
+
+    pre.box {
+      border: 1px solid #EEE;
+      padding: 10px;
+      margin: 0px;
+      width: 958px;
+    }
+
+    header {
+      color: #F0F0F0;
+      background: #C52F24;
+      padding: 0.5em 1.5em;
+    }
+
+    h2 {
+      color: #C52F24;
+      line-height: 25px;
+    }
+
+    .details {
+      border: 1px solid #D0D0D0;
+      border-radius: 4px;
+      margin: 1em 0px;
+      display: block;
+      width: 978px;
+    }
+
+    .summary {
+      padding: 8px 15px;
+      border-bottom: 1px solid #D0D0D0;
+      display: block;
+    }
+
+    .details pre {
+      margin: 5px;
+      border: none;
+    }
+
+    #container {
+      box-sizing: border-box;
+      width: 100%;
+      padding: 0 1.5em;
+    }
+
+    .source * {
+      margin: 0px;
+      padding: 0px;
+    }
+
+    .source {
+      border: 1px solid #D9D9D9;
+      background: #ECECEC;
+      width: 978px;
+    }
+
+    .source pre {
+      padding: 10px 0px;
+      border: none;
+    }
+
+    .source .data {
+      font-size: 80%;
+      overflow: auto;
+      background-color: #FFF;
+    }
+
+    .info {
+      padding: 0.5em;
+    }
+
+    .source .data .line_numbers {
+      background-color: #ECECEC;
+      color: #AAA;
+      padding: 1em .5em;
+      border-right: 1px solid #DDD;
+      text-align: right;
+    }
+
+    .line {
+      padding-left: 10px;
+    }
+
+    .line:hover {
+      background-color: #F6F6F6;
+    }
+
+    .line.active {
+      background-color: #FFCCCC;
+    }
+
+    a { color: #980905; }
+    a:visited { color: #666; }
+    a:hover { color: #C52F24; }
+
+    
+  </style>
+
+  <script>
+    var toggle = function(id) {
+      var s = document.getElementById(id).style;
+      s.display = s.display == 'none' ? 'block' : 'none';
+      return false;
+    }
+    var show = function(id) {
+      document.getElementById(id).style.display = 'block';
+    }
+    var hide = function(id) {
+      document.getElementById(id).style.display = 'none';
+    }
+    var toggleTrace = function() {
+      return toggle('blame_trace');
+    }
+    var toggleSessionDump = function() {
+      return toggle('session_dump');
+    }
+    var toggleEnvDump = function() {
+      return toggle('env_dump');
+    }
+  </script>
+</head>
+<body>
+
+<header>
+  <h1>
+    ActionController::ParameterMissing
+      in Api::V1::InvoicesController#create
+  </h1>
+</header>
+
+<div id="container">
+  <h2>param not found: invoice</h2>
+
+  <div class="source">
+<div class="info">
+  Extracted source (around line <strong>#59</strong>):
+</div>
+<div class="data">
+  <table cellpadding="0" cellspacing="0" class="lines">
+      <tr>
+        <td>
+          <pre class="line_numbers">
+<span>57</span>
+<span>58</span>
+<span>59</span>
+<span>60</span>
+<span>61</span>
+          </pre>
+        </td>
+<td width="100%">
+<pre>
+<div class="line">  protected
+</div><div class="line">  def invoice_params
+</div><div class="line active">    params.require(:invoice).permit(:amount_in_euro, :external_id, :description)
+</div><div class="line">  end
+</div><div class="line">end
+</div>
+</pre>
+</td>
+    </tr>
+  </table>
+</div>
+</div>
+
+  
+<p><code>Rails.root: /Users/jeffrey/work/kojn_coll/kojn</code></p>
+
+<div id="traces">
+    <a href="#" onclick="hide(&#39;Framework-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Application-Trace&#39;);; return false;">Application Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Full-Trace&#39;);show(&#39;Framework-Trace&#39;);; return false;">Framework Trace</a> |
+    <a href="#" onclick="hide(&#39;Application-Trace&#39;);hide(&#39;Framework-Trace&#39;);show(&#39;Full-Trace&#39;);; return false;">Full Trace</a> 
+
+    <div id="Application-Trace" style="display: block;">
+      <pre><code>app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;</code></pre>
+    </div>
+    <div id="Framework-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+    <div id="Full-Trace" style="display: none;">
+      <pre><code>actionpack (4.0.0.beta1) lib/action_controller/metal/strong_parameters.rb:170:in `require&#39;
+app/controllers/api/v1/invoices_controller.rb:59:in `invoice_params&#39;
+app/controllers/api/v1/invoices_controller.rb:34:in `create&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/implicit_render.rb:4:in `send_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:189:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rendering.rb:10:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:18:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:403:in `_run__1981132794247187684__process_action__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/callbacks.rb:17:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rescue.rb:29:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:31:in `block in process_action&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `block in instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications/instrumenter.rb:20:in `instrument&#39;
+activesupport (4.0.0.beta1) lib/active_support/notifications.rb:158:in `instrument&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/instrumentation.rb:30:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/params_wrapper.rb:245:in `process_action&#39;
+activerecord (4.0.0.beta1) lib/active_record/railties/controller_runtime.rb:18:in `process_action&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/base.rb:136:in `process&#39;
+actionpack (4.0.0.beta1) lib/abstract_controller/rendering.rb:44:in `process&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:196:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal/rack_delegation.rb:13:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_controller/metal.rb:232:in `block in action&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:78:in `dispatch&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:46:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/mapper.rb:41:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:69:in `block in call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `each&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/journey/router.rb:57:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/routing/route_set.rb:651:in `call&#39;
+warden (1.2.1) lib/warden/manager.rb:35:in `block in call&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `catch&#39;
+warden (1.2.1) lib/warden/manager.rb:34:in `call&#39;
+rack (1.5.2) lib/rack/etag.rb:23:in `call&#39;
+rack (1.5.2) lib/rack/conditionalget.rb:35:in `call&#39;
+rack (1.5.2) lib/rack/head.rb:11:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/params_parser.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/flash.rb:241:in `call&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:225:in `context&#39;
+rack (1.5.2) lib/rack/session/abstract/id.rb:220:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/cookies.rb:452:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/query_cache.rb:36:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/connection_adapters/abstract/connection_pool.rb:632:in `call&#39;
+activerecord (4.0.0.beta1) lib/active_record/migration.rb:348:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:373:in `_run__3646335345593787207__call__callbacks&#39;
+activesupport (4.0.0.beta1) lib/active_support/callbacks.rb:78:in `run_callbacks&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/callbacks.rb:27:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/reloader.rb:64:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/remote_ip.rb:76:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/debug_exceptions.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:38:in `call_app&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `block in call&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `block in tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:25:in `tagged&#39;
+activesupport (4.0.0.beta1) lib/active_support/tagged_logging.rb:67:in `tagged&#39;
+railties (4.0.0.beta1) lib/rails/rack/logger.rb:21:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/request_id.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/methodoverride.rb:21:in `call&#39;
+rack (1.5.2) lib/rack/runtime.rb:17:in `call&#39;
+activesupport (4.0.0.beta1) lib/active_support/cache/strategy/local_cache.rb:72:in `call&#39;
+rack (1.5.2) lib/rack/lock.rb:17:in `call&#39;
+actionpack (4.0.0.beta1) lib/action_dispatch/middleware/static.rb:64:in `call&#39;
+railties (4.0.0.beta1) lib/rails/engine.rb:510:in `call&#39;
+railties (4.0.0.beta1) lib/rails/application.rb:96:in `call&#39;
+railties (4.0.0.beta1) lib/rails/railtie/configurable.rb:30:in `method_missing&#39;
+rack (1.5.2) lib/rack/lint.rb:49:in `_call&#39;
+rack (1.5.2) lib/rack/lint.rb:37:in `call&#39;
+rack (1.5.2) lib/rack/showexceptions.rb:24:in `call&#39;
+rack (1.5.2) lib/rack/commonlogger.rb:33:in `call&#39;
+sinatra (1.4.2) lib/sinatra/base.rb:209:in `call&#39;
+rack (1.5.2) lib/rack/chunked.rb:43:in `call&#39;
+rack (1.5.2) lib/rack/content_length.rb:14:in `call&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:552:in `process_client&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:632:in `worker_loop&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:500:in `spawn_missing_workers&#39;
+unicorn (4.6.2) lib/unicorn/http_server.rb:142:in `start&#39;
+unicorn (4.6.2) bin/unicorn:126:in `&lt;top (required)&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `load&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/unicorn:23:in `&lt;main&gt;&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `eval&#39;
+/Users/jeffrey/.rvm/gems/ruby-2.0.0-p0/bin/ruby_noexec_wrapper:14:in `&lt;main&gt;&#39;</code></pre>
+    </div>
+</div>
+
+  
+
+<h2 style="margin-top: 30px">Request</h2>
+<p><b>Parameters</b>:</p> <pre>{&quot;format&quot;=&gt;&quot;json&quot;,
+ &quot;invoice&quot;=&gt;{}}</pre>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleSessionDump()">Toggle session dump</a></div>
+  <div id="session_dump" style="display:none"><pre></pre></div>
+</div>
+
+<div class="details">
+  <div class="summary"><a href="#" onclick="return toggleEnvDump()">Toggle env dump</a></div>
+  <div id="env_dump" style="display:none"><pre>HTTP_ACCEPT: &quot;*/*&quot;
+REMOTE_ADDR: &quot;127.0.0.1&quot;
+SERVER_NAME: &quot;localhost&quot;
+SERVER_PROTOCOL: &quot;HTTP/1.1&quot;</pre></div>
+</div>
+
+<h2 style="margin-top: 30px">Response</h2>
+<p><b>Headers</b>:</p> <pre>None</pre>
+
+</div>
+
+
+</body>
+</html>
+
+08-05 19:40:27: This app serves as a php Kojn PHP test.
+08-05 19:40:27: {"hello":"world"}
+08-05 19:40:27: in #setup - Setting up kojn
+08-05 19:40:27: Fetching all transactions
+08-05 19:40:27: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:40:27: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:41:13: This app serves as a php Kojn PHP test.
+08-05 19:41:13: {"hello":"world"}
+08-05 19:41:13: in #setup - Setting up kojn
+08-05 19:41:13: Fetching all transactions
+08-05 19:41:13: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:41:13: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:10: This app serves as a php Kojn PHP test.
+08-05 19:42:10: {"hello":"world"}
+08-05 19:42:10: in #setup - Setting up kojn
+08-05 19:42:10: Fetching all transactions
+08-05 19:42:10: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:10: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:20: This app serves as a php Kojn PHP test.
+08-05 19:42:20: {"hello":"world"}
+08-05 19:42:20: in #setup - Setting up kojn
+08-05 19:42:20: Fetching all transactions
+08-05 19:42:20: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:20: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:25: This app serves as a php Kojn PHP test.
+08-05 19:42:25: {"hello":"world"}
+08-05 19:42:25: in #setup - Setting up kojn
+08-05 19:42:25: Fetching all transactions
+08-05 19:42:25: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:42:25: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:43:10: This app serves as a php Kojn PHP test.
+08-05 19:43:10: {"hello":"world"}
+08-05 19:43:10: in #setup - Setting up kojn
+08-05 19:43:10: Fetching all transactions
+08-05 19:43:10: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:43:10: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:43:33: This app serves as a php Kojn PHP test.
+08-05 19:43:33: {"hello":"world"}
+08-05 19:43:33: in #setup - Setting up kojn
+08-05 19:43:33: Fetching all transactions
+08-05 19:43:33: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:43:33: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:43:54: This app serves as a php Kojn PHP test.
+08-05 19:43:54: {"hello":"world"}
+08-05 19:43:54: in #setup - Setting up kojn
+08-05 19:43:54: Fetching all transactions
+08-05 19:43:54: Creating new invoice
+08-05 19:43:54: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:44:40: This app serves as a php Kojn PHP test.
+08-05 19:44:40: {"hello":"world"}
+08-05 19:44:40: in #setup - Setting up kojn
+08-05 19:44:40: Fetching all transactions
+08-05 19:44:40: Creating new invoice
+08-05 19:44:40: Retrieve data from `localhost:3000/api/invoices'
+08-05 19:45:45: This app serves as a php Kojn PHP test.
+08-05 19:45:45: {"hello":"world"}
+08-05 19:45:45: in #setup - Setting up kojn
+08-05 19:45:45: Fetching all transactions
+08-05 19:45:45: Creating new invoice
+08-05 19:45:45: Retrieve data from `localhost:3000/api/invoices'

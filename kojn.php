@@ -58,8 +58,10 @@ class Kojn {
     $length = 0;
 
     curl_setopt($curl, CURLOPT_CUSTOMREQUEST, $method);
-    if($method != 'GET') {
-      curl_setopt($curl, CURLOPT_POSTFIELDS, $params);
+    if($method !== 'GET') {
+      $encoded_str = json_encode($params);
+      curl_setopt($curl, CURLOPT_POSTFIELDS, $encoded_str);
+      $length = strlen($encoded_str);
     }
 
     $header = array(
@@ -83,7 +85,6 @@ class Kojn {
 
     $curl_response = curl_exec($curl);
 
-    Kojn::log("curl response {$curl_response}");
     if($curl_response == false) {
       $response = array('error' => curl_error($curl));
     } else {
@@ -105,8 +106,10 @@ class Kojn {
   }
 }
 
-// TODO
 function Kojn_create_invoice($kojn, $invoice_data) {
+  $json = $kojn->curl('/invoices', 'POST', array("invoice" => $invoice_data));
+
+  return arrayToObject($json);
 }
 
 function Kojn_list_invoices($kojn) {
