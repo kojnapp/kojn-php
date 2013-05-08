@@ -12,12 +12,24 @@ Feel free to fork, modify & redistribute under the MIT license.
 
 2) Include
 
-    <?php include_onnce('kojn.php'); ?>
-
+    <? include_once('kojn.php'); ?>
+    
 
 ## Usage
 
-(TODO: Write inline docs)
+### Setup
+
+    $kojn = Kojn::setup(function($config) {
+      $config::$api_key = "YOUR_API_KEY"; 
+    });
+    
+### Listing invoices
+    
+    $invoices = Kojn_list_invoices($kojn);
+    
+### Creating invoices
+    $invoice = array("currency" => "btc", "amount_in_euro" => 3, "description" => "My invoice");
+    $invoice = Kojn_create_invoice($kojn, $invoice);
 
 Latest docs can be found here: https://kojn.nl/developer/docs/php_setup
 

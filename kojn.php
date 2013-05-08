@@ -106,7 +106,7 @@ class Kojn {
 }
 
 // TODO
-function Kojn_create_invoice($kojn) {
+function Kojn_create_invoice($kojn, $invoice_data) {
 }
 
 function Kojn_list_invoices($kojn) {
