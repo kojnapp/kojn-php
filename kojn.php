@@ -5,11 +5,19 @@ include_once('lib/utils.php');
 class Kojn {
   // The singleton instance
   protected static $_instance;
+  public function getInstance() { return self::$_instance; }
 
   // Constants
   const Ipn = Test;
 
   const debug = true;
+
+  // host (for debug purposes)
+  public static $host;
+  // port (for debug purposes)
+  public static $port;
+  // ssl enabled (for debug purposes)
+  public static $ssl = true;
 
   // Api key
   public static $api_key;
@@ -21,33 +29,37 @@ class Kojn {
   public static $ipn_sec;
 
   public function init_base() {
-    // Set the access token
-    Kojn::$api_key = $key;
-
     // Set the type of ipn security
-    Kojn::$ipn_sec = $ipn_sec;
+    self::$ipn_sec = $ipn_sec;
 
     // Initialize Kojn's crypto module
-    Kojn::$crypto = null; // new KojnCrypto();
+    self::$crypto = null; // new KojnCrypto();
   }
 
   public static function setup($func) {
     self::$_instance = new Kojn();
-    $func(Kojn::getInstance());
+    $func(Kojn);
 
     Kojn::getInstance()->init_base();
 
     return Kojn::getInstance();
   }
 
+  public function uri($path) {
+    return Kojn::$host . ":" . strval(Kojn::$port) . "/api" . $path;
+  }
+
   // Helper method for doing http(s) requests.
-  public function curl($url, $metod = 'GET', $params = array()) {
-    $curl = curl_init($url);
+  public function curl($path, $method = 'GET', $params = array()) {
+    $uri = $this->uri($path);
+    Kojn::log("Retrieve data from `{$uri}'");
+
+    $curl = curl_init($uri);
     $length = 0;
 
-    curl_setopt($curl, CURLOPT_CUSTOM_REQUEST, $method);
+    curl_setopt($curl, CURLOPT_CUSTOMREQUEST, $method);
     if($method != 'GET') {
-      curl_setopt($curl, CURL_POSTFIELDS, $params);
+      curl_setopt($curl, CURLOPT_POSTFIELDS, $params);
     }
 
     $header = array(
@@ -55,19 +67,23 @@ class Kojn {
       "Content-Length: $length"
     );
 
-    curl_setopt($curl, CURLOPT_PORT, 443);
+    if(Kojn::$ssl) {
+      curl_setopt($curl, CURLOPT_PORT, 443);
+      curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, 1);
+      curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, 2);
+    }
+
     curl_setopt($curl, CURLOPT_HTTPHEADER, $header);
     curl_setopt($curl, CURLOPT_TIMEOUT, 10);
     curl_setopt($curl, CURLOPT_HTTPAUTH, CURLAUTH_BASIC);
     curl_setopt($curl, CURLOPT_USERPWD, self::$api_key);
-    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, 1);
-    curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, 2);
     curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
     curl_setopt($curl, CURLOPT_FORBID_REUSE, 1);
-    curl_setopt($curl, CURLOPT_FRESH_CORRECT, 1);
+    curl_setopt($curl, CURLOPT_FRESH_CONNECT, 1);
 
     $curl_response = curl_exec($curl);
 
+    Kojn::log("curl response {$curl_response}");
     if($curl_response == false) {
       $response = array('error' => curl_error($curl));
     } else {
@@ -90,10 +106,11 @@ class Kojn {
 }
 
 // TODO
-function Kojn_create_invoice(...) {
+function Kojn_create_invoice($kojn) {
 }
 
-function Kojn_list_invoices(...) {
+function Kojn_list_invoices($kojn) {
+  return $kojn->curl('/invoices');
 }
 
 ?>

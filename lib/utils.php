@@ -1,15 +1,22 @@
 <?php
 
 function KojnLog($msg) {
+  date_default_timezone_set("Europe/Berlin");
+
   $file = dirname(__FILE__) . '/kojn.log';
   $contents = date('d-m H:i:s').": ";
 
-  if (is_array($contents))
-    $contents = $contents . var_export($contents, true);
-  else if (is_object($contents))
-    $contents = $contents . json_encode($contents);
+  if (is_array($msg)) {
+    $contents = $contents . var_export($msg, true);
+  } else if (is_object($msg)) {
+    $contents = $contents . json_encode($msg);
+  } else {
+    $contents = $contents . $msg;
+  }
 
-  file_put_contents($file, $contents."\n", FILE_APPEND);
+  $contents = $contents."\n";
+
+  file_put_contents($file, $contents, FILE_APPEND);
 
   return $contents;
 }

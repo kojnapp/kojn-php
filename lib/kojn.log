@@ -1,0 +1,314 @@
+08-05 11:14:32: 
+08-05 11:16:23: Test message log
+08-05 11:17:00: Test message log
+08-05 11:17:17: Test message log
+08-05 11:17:38: Test message log
+08-05 11:17:58: Test message log
+08-05 11:18:30: Test message log
+08-05 11:18:53: Test message log
+08-05 11:18:53: Array
+08-05 11:19:16: Test message log
+08-05 11:19:16: Array
+08-05 11:20:41: Test message log
+08-05 11:21:35: 
+08-05 11:21:35: 
+08-05 11:24:07: Test message log
+08-05 11:24:17: Test message log
+08-05 11:24:17: Array
+08-05 11:24:36: Test message log
+08-05 11:24:36: Array
+08-05 11:24:47: Test message log
+08-05 11:24:47: Array
+08-05 11:25:21: Test message log
+08-05 11:25:21: Array
+08-05 11:25:41: Test message log
+08-05 11:25:41: array (
+)
+08-05 11:25:50: Test message log
+08-05 11:25:50: {"hello":"world"}
+08-05 11:26:27: This app serves as a php Kojn PHP test.
+08-05 11:26:27: {"hello":"world"}
+08-05 11:27:05: This app serves as a php Kojn PHP test.
+08-05 11:27:05: {"hello":"world"}
+08-05 11:27:05: in #setup - Setting up kojn
+08-05 11:31:29: This app serves as a php Kojn PHP test.
+08-05 11:31:29: {"hello":"world"}
+08-05 11:31:29: in #setup - Setting up kojn
+08-05 11:31:29: Fetching all transactions
+08-05 11:31:56: This app serves as a php Kojn PHP test.
+08-05 11:31:56: {"hello":"world"}
+08-05 11:31:56: in #setup - Setting up kojn
+08-05 11:31:56: Fetching all transactions
+08-05 11:36:02: This app serves as a php Kojn PHP test.
+08-05 11:36:02: {"hello":"world"}
+08-05 11:36:02: in #setup - Setting up kojn
+08-05 11:36:02: Fetching all transactions
+08-05 11:36:24: This app serves as a php Kojn PHP test.
+08-05 11:36:24: {"hello":"world"}
+08-05 11:36:24: in #setup - Setting up kojn
+08-05 11:36:24: Fetching all transactions
+08-05 11:39:58: This app serves as a php Kojn PHP test.
+08-05 11:39:58: {"hello":"world"}
+08-05 11:39:58: in #setup - Setting up kojn
+08-05 11:39:58: Fetching all transactions
+08-05 11:40:26: This app serves as a php Kojn PHP test.
+08-05 11:40:26: {"hello":"world"}
+08-05 11:40:26: in #setup - Setting up kojn
+08-05 11:40:26: Fetching all transactions
+08-05 11:43:02: This app serves as a php Kojn PHP test.
+08-05 11:43:02: {"hello":"world"}
+08-05 11:43:02: in #setup - Setting up kojn
+08-05 11:43:02: Fetching all transactions
+08-05 11:43:49: This app serves as a php Kojn PHP test.
+08-05 11:43:49: {"hello":"world"}
+08-05 11:43:49: in #setup - Setting up kojn
+08-05 11:43:49: Fetching all transactions
+08-05 11:43:49: Retrieve data from `localhost3000/invoices'
+08-05 11:43:59: This app serves as a php Kojn PHP test.
+08-05 11:43:59: {"hello":"world"}
+08-05 11:43:59: in #setup - Setting up kojn
+08-05 11:43:59: Fetching all transactions
+08-05 11:43:59: Retrieve data from `localhost3000/invoices'
+08-05 11:44:24: This app serves as a php Kojn PHP test.
+08-05 11:44:24: {"hello":"world"}
+08-05 11:44:24: in #setup - Setting up kojn
+08-05 11:44:24: Fetching all transactions
+08-05 11:44:24: Retrieve data from `http://localhost:3000/invoices'
+08-05 11:45:23: This app serves as a php Kojn PHP test.
+08-05 11:45:23: {"hello":"world"}
+08-05 11:45:23: in #setup - Setting up kojn
+08-05 11:45:23: Fetching all transactions
+08-05 11:45:23: Retrieve data from `http://localhost:3000/invoices'
+08-05 11:45:23: curl response 
+08-05 11:45:32: This app serves as a php Kojn PHP test.
+08-05 11:45:32: {"hello":"world"}
+08-05 11:45:32: in #setup - Setting up kojn
+08-05 11:45:32: Fetching all transactions
+08-05 11:45:32: Retrieve data from `http://localhost:3000/invoices'
+08-05 11:45:32: curl response 
+08-05 11:46:04: This app serves as a php Kojn PHP test.
+08-05 11:46:04: {"hello":"world"}
+08-05 11:46:04: in #setup - Setting up kojn
+08-05 11:46:04: Fetching all transactions
+08-05 11:46:04: Retrieve data from `localhost:3000/invoices'
+08-05 11:46:04: curl response 
+08-05 11:47:34: This app serves as a php Kojn PHP test.
+08-05 11:47:34: {"hello":"world"}
+08-05 11:47:34: in #setup - Setting up kojn
+08-05 11:47:34: Fetching all transactions
+08-05 11:47:34: Retrieve data from `localhost:3000/invoices'
+08-05 11:47:34: curl response 
+08-05 11:49:22: This app serves as a php Kojn PHP test.
+08-05 11:49:22: {"hello":"world"}
+08-05 11:49:22: in #setup - Setting up kojn
+08-05 11:49:22: Fetching all transactions
+08-05 11:49:22: Retrieve data from `localhost:3000/invoices'
+08-05 11:49:22: curl response 
+08-05 11:49:37: This app serves as a php Kojn PHP test.
+08-05 11:49:37: {"hello":"world"}
+08-05 11:49:37: in #setup - Setting up kojn
+08-05 11:49:37: Fetching all transactions
+08-05 11:49:37: Retrieve data from `localhost:3000/invoices'
+08-05 11:49:37: curl response <!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8'>
+    <title>
+      De toekomst van internet betalingen
+      | Kojn
+    </title>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>
+    <link href="/assets/style.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/bootstrap/bootstrap.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/bootstrap/bootstrap-responsive.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/bootstrap/glyphicons.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/prettify.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/invoices_show.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/theme/base.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/theme/blue.css?body=1" media="screen" rel="stylesheet" />
+    <link href="/assets/application.css?body=1" media="screen" rel="stylesheet" />
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="5jYduN2G6s8AeZf4J16y9QP1NKFnH/cvDET6t9WFLqs=" name="csrf-token" />
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <meta content='Kojn - Binnen drie minuten online met bitcoin betalingen.' name='description'>
+    <meta content='Kojn' name='author'>
+    <!--[if lt IE 9]>
+      <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div id='wrap'>
+      <div class='navbar navbar-fixed-top'>
+        <div class='navbar-inner'>
+          <div class='container'>
+            <a class='btn btn-primary btn-dropnav' data-target='.nav-collapse' data-toggle='collapse'>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+            </a>
+            <a class='brand' href='/'>Kojn</a>
+            <div class='nav-collapse collapse'>
+              <ul class='nav pull-right'>
+                <li>
+                  <a href='/' role='button'>
+                    Home
+                  </a>
+                </li>
+                <li>
+                  <a href="/over">Over</a>
+                </li>
+                <li>
+                  <a href="/contact">Contact</a>
+                </li>
+                <li>
+                  <a href="/developer/docs">Developers</a>
+                </li>
+                <li>
+                  <a href='/users/sign_in'>Login</a>
+                </li>
+                <li>
+                  <a href='/users/sign_up'>Registreer</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='wrapping-container'>
+        <div id='content'>
+          <div class='container'>
+            <div class='row'>
+              <div class='span12'>
+                <div class='well well-form txt-lefty'>
+                  <h3>Inloggen</h3>
+                  <form accept-charset="UTF-8" action="/users/sign_in" class="simple_form user" id="new_user" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="5jYduN2G6s8AeZf4J16y9QP1NKFnH/cvDET6t9WFLqs=" /></div>          <div class='form-inputs'>
+                              <div class="input email optional"><div class='input-prepend'>
+                                <span class='add-on'>
+                                  <i class='icon-user'></i>
+                                </span>
+                                <input class="string email required" id="user_email" maxlength="255" name="user[email]" placeholder="Email" required="required" size="50" type="email" value="" />
+                              </div>
+                              </div>
+                              <div class="input password optional"><div class='input-prepend'>
+                                <span class='add-on'>
+                                  <i class='icon-lock'></i>
+                                </span>
+                                <input class="string password optional" id="user_password" name="user[password]" placeholder="Wachtwoord" size="50" type="password" />
+                              </div>
+                              </div>
+                              <div class="input string optional"><div class='input-prepend'>
+                                <span class='add-on'>
+                                  <i class='icon-star'></i>
+                                </span>
+                                <input class="string optional" id="user_current_code" name="user[current_code]" placeholder="6-cijferige code" size="50" type="text" />
+                              </div>
+                              <span class="hint">Alleen nodig als je Google Authenticator hebt ingeschakeld.</span></div>
+                            </div>
+                            <div class='form-actions'>
+                              <label class='checkbox'>
+                                <div class="input boolean optional"><input name="user[remember_me]" type="hidden" value="0" /><input class="boolean optional" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1" /><label class="boolean optional" for="user_remember_me"> Onthoud mijn gegevens</label></div>
+                              </label>
+                              <input class="button btn btn-primary" name="commit" style="float: right" type="submit" value="Log in" />
+                            </div>
+                            <div class='form-extra'>
+                              
+                                <a href="/users/sign_up">Registreren</a><br />
+                              
+                                <a href="/users/password/new">Wachtwoord vergeten?</a><br />
+                            </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id='push'></div>
+    </div>
+    <div id='footer'>
+      <div class='container'>
+        <div class='row'>
+          <div class='span3'>
+            <h3>Snel op weg</h3>
+            <ul class='animated'>
+              <li>
+                <a href='#'>Home</a>
+              </li>
+              <li>
+                <a href='/over'>Over ons</a>
+              </li>
+              <li>
+                <a href='/contact'>Contact</a>
+              </li>
+            </ul>
+          </div>
+          <div class='span3'>
+            <h3>Het bedrijf</h3>
+            <ul class='animated'>
+              <li>
+                <a href='/faq'>FAQ</a>
+              </li>
+              <li>
+                <a href='#'>Algemene voorwaarden</a>
+              </li>
+              <li>
+                <a href='#'>Privacy</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div id='copywrite'>
+        <div class='container'>
+          <div class='row'>
+            <div class='span12'>
+              <p>
+                &copy; 2013 Project Kojn
+                <span class='pull-right' id='totop'>
+                  <img alt="Btc love" src="/assets/btc_love.png" />
+                  <i class='icon-arrow-up icon-white'></i>
+                </span>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/assets/jquery.js?body=1"></script>
+    <script src="/assets/jquery_ujs.js?body=1"></script>
+    <script src="/assets/kojn.js?body=1"></script>
+    <script src="/assets/home.js?body=1"></script>
+    <script src="/assets/invoices.js?body=1"></script>
+    <script src="/assets/invoices_show.js?body=1"></script>
+    <script src="/assets/lib/ext/bootstrap.min.js?body=1"></script>
+    <script src="/assets/lib/ext/bounce.js?body=1"></script>
+    <script src="/assets/lib/ext/jqBootstrapValidation.js?body=1"></script>
+    <script src="/assets/lib/ext/jquery.fitvids.js?body=1"></script>
+    <script src="/assets/lib/ext/prettify.js?body=1"></script>
+    <script src="/assets/websocket_rails/websocket_rails.js?body=1"></script>
+    <script src="/assets/websocket_rails/event.js?body=1"></script>
+    <script src="/assets/websocket_rails/http_connection.js?body=1"></script>
+    <script src="/assets/websocket_rails/websocket_connection.js?body=1"></script>
+    <script src="/assets/websocket_rails/channel.js?body=1"></script>
+    <script src="/assets/websocket_rails/main.js?body=1"></script>
+    <script src="/assets/application.js?body=1"></script>
+    <script>
+      $(function() {
+        prettyPrint();
+      });
+    </script>
+  </body>
+</html>
+
+08-05 11:49:58: This app serves as a php Kojn PHP test.
+08-05 11:49:58: {"hello":"world"}
+08-05 11:49:58: in #setup - Setting up kojn
+08-05 11:49:58: Fetching all transactions
+08-05 11:49:58: Retrieve data from `localhost:3000/invoices'
+08-05 11:49:58: curl response <html><body>You are being <a href="http://localhost:3000/users/sign_in">redirected</a>.</body></html>
+08-05 11:50:33: This app serves as a php Kojn PHP test.
+08-05 11:50:33: {"hello":"world"}
+08-05 11:50:33: in #setup - Setting up kojn
+08-05 11:50:33: Fetching all transactions
+08-05 11:50:33: Retrieve data from `localhost:3000/api/invoices'
+08-05 11:50:33: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]
