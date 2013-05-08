@@ -1,5 +1,5 @@
 <?
-include("../kojn_php/kojn.php");
+include("../kojn.php");
 
 Kojn::log("This app serves as a php Kojn PHP test.");
 
