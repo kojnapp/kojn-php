@@ -312,3 +312,15 @@
 08-05 11:50:33: Fetching all transactions
 08-05 11:50:33: Retrieve data from `localhost:3000/api/invoices'
 08-05 11:50:33: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 12:20:45: This app serves as a php Kojn PHP test.
+08-05 12:20:45: {"hello":"world"}
+08-05 12:20:45: in #setup - Setting up kojn
+08-05 12:20:45: Fetching all transactions
+08-05 12:20:45: Retrieve data from `localhost:3000/api/invoices'
+08-05 12:20:45: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]
+08-05 12:24:04: This app serves as a php Kojn PHP test.
+08-05 12:24:04: {"hello":"world"}
+08-05 12:24:04: in #setup - Setting up kojn
+08-05 12:24:04: Fetching all transactions
+08-05 12:24:04: Retrieve data from `localhost:3000/api/invoices'
+08-05 12:24:04: curl response [{"address":"mptyktuPGpvLYGBQQC75ZW4HUsWiiasMRm","currency":"btc","amount":"0.011242","amount_in_euro":"1.0","received_amount":"0.0","exchange_rate":"88.9486","description":"1","external_id":"100","status":1,"internal_id":"431eaab279e72dbe1457d2a3b3089ddc","seen":false,"amount_left":"0.011242","redirect_uri":null,"received_amount_in_euro":"0.0"}]

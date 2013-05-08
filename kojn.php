@@ -98,7 +98,7 @@ class Kojn {
   }
 
   public static function log($msg) {
-    $m = KojnLog($msg);
+    $m = Kojn_log($msg);
 
     if(Kojn::debug)
       echo $m;
@@ -110,7 +110,14 @@ function Kojn_create_invoice($kojn, $invoice_data) {
 }
 
 function Kojn_list_invoices($kojn) {
-  return $kojn->curl('/invoices');
+  $invoices = array();
+  $json = $kojn->curl('/invoices');
+
+  foreach($json as &$invoice) {
+    array_push($invoices, arrayToObject($invoice));
+  }
+
+  return $invoices;
 }
 
 ?>
