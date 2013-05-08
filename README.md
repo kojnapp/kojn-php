@@ -28,8 +28,10 @@ Feel free to fork, modify & redistribute under the MIT license.
     $invoices = Kojn_list_invoices($kojn);
     
 ### Creating invoices
-    $invoice = array("currency" => "btc", "amount_in_euro" => 3, "description" => "My invoice");
-    $invoice = Kojn_create_invoice($kojn, $invoice);
+```php
+$invoice = array("currency" => "btc", "amount_in_euro" => 3, "description" => "My invoice");
+$invoice = Kojn_create_invoice($kojn, $invoice);
+```
 
 Latest docs can be found here: https://kojn.nl/developer/docs/php_setup
 
