@@ -19,6 +19,9 @@ include_once('kojn.php');
 ## Usage
 
 ### Setup
+
+Set your API key (which you can find on your Kojn developer page).
+
 ```php
 $kojn = Kojn::setup(function($config) {
   $config::$api_key = "YOUR_API_KEY"; 
@@ -26,14 +29,22 @@ $kojn = Kojn::setup(function($config) {
 ```
     
 ### Listing invoices
+
 ```php    
 $invoices = Kojn_list_invoices($kojn);
 ```
     
 ### Creating invoices
+
 ```php
 $invoice = array("currency" => "btc", "amount_in_euro" => 3, "description" => "My invoice");
 $invoice = Kojn_create_invoice($kojn, $invoice);
+```
+
+### Get Invoice from IPN
+
+```php
+$invoice = Kojn::ipn(Kojn_json())->invoice;
 ```
 
 Latest docs can be found here: https://kojn.nl/developer/docs/php_setup
