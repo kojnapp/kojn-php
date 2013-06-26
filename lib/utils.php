@@ -36,5 +36,9 @@ function arrayToObject($d) {
   }
 }
 
+function Kojn_json() {
+  return json_decode(file_get_contents('php://input'));
+}
+
 ?>
 
