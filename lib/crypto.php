@@ -2,6 +2,7 @@
   class Crypto {
     private $access_token;
     private $crypt_method;
+    private $kojn;
 
     public function __construct() {
       $this->access_token = Kojn::$api_key;
@@ -9,7 +10,7 @@
     }
 
     public function decrypt_params($params) {
-      return $this->decrypt(base64_decode($params['payload']), $params['iv']);
+      return $this->decrypt(base64_decode($params->payload), $params->iv);
     }
 
     public function decrypt($data, $iv) {

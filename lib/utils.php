@@ -16,7 +16,8 @@ function Kojn_log($msg) {
 
   $contents = $contents."\n";
 
-  file_put_contents($file, $contents, FILE_APPEND);
+  //file_put_contents($file, $contents, FILE_APPEND);
+  file_put_contents($file, print_r($msg, true) . "\n", FILE_APPEND);
 
   return $contents;
 }
