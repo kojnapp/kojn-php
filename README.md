@@ -44,8 +44,10 @@ $invoice = Kojn_create_invoice($kojn, $invoice);
 ### Get Invoice from IPN
 
 ```php
-$invoice = Kojn::ipn(Kojn_json())->invoice;
+$invoice = Kojn_data_from_ipn(kojn, Kojn_json());
 ```
+
+Note: Kojn_json() is a method to get json data out of the stream.
 
 Latest docs can be found here: https://kojn.nl/developer/docs/php_setup
 

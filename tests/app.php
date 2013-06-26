@@ -17,9 +17,8 @@ $kojn = Kojn::setup(function($config) {
   $config::$ssl     = false;
 });
 
-Kojn::ipn(Kojn_json());
+Kojn_data_from_ipn($kojn, Kojn_json());
 
-/*
 Kojn::log("Fetching all transactions");
 var_dump(Kojn_list_invoices($kojn));
 
@@ -28,6 +27,5 @@ var_dump(Kojn_create_invoice($kojn, array(
   "amount_in_euro" => 1,
   "description" => "Test invoice"
 )));
- */
 
 ?>

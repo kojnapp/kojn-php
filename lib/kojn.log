@@ -1614,3 +1614,152 @@ SERVER_PROTOCOL: &quot;HTTP/1.1&quot;</pre></div>
 08-05 19:45:45: Fetching all transactions
 08-05 19:45:45: Creating new invoice
 08-05 19:45:45: Retrieve data from `localhost:3000/api/invoices'
+26-06 19:24:57: This app serves as a php Kojn PHP test.
+26-06 19:24:57: {"hello":"world"}
+26-06 19:24:57: in #setup - Setting up kojn
+26-06 19:24:57: integrity
+26-06 19:24:57: Fetching all transactions
+26-06 19:24:57: Retrieve data from `localhost:3000/api/invoices'
+26-06 19:24:57: Creating new invoice
+26-06 19:24:57: Retrieve data from `localhost:3000/api/invoices'
+26-06 19:25:25: This app serves as a php Kojn PHP test.
+26-06 19:25:25: {"hello":"world"}
+26-06 19:25:25: in #setup - Setting up kojn
+26-06 19:25:25: integrity
+26-06 20:25:36: test
+26-06 20:26:29: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mhX266KmTNwWCMN4iAuDrSa5xW2ChT8B64","currency":"btc","amount":"0.013216","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.66307422","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.66307422","time_left":"10 minuten"}}
+26-06 20:27:56: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"msnPQMGiEPumbkWmhw5RTh7mZJMgZxegEr","currency":"btc","amount":"0.013216","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.66307422","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.66307422","time_left":"10 minuten"}}
+26-06 20:28:24: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"n1X8FxVEvafCJVSY6Dte5DSyMWxeDuWQgU","currency":"btc","amount":"0.013216","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.66307422","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.66307422","time_left":"10 minuten"}}
+26-06 20:30:59: test
+26-06 20:31:19: test
+26-06 20:31:38: test
+26-06 20:32:09: test
+26-06 20:32:19: test
+26-06 20:32:35: test
+26-06 20:34:30: test
+26-06 20:34:30: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mtJggKegMMpXBB6LrbyCPRrBCTDHFgE6gQ","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:34:46: test
+26-06 20:34:46: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"muvmnjw5R5u94EYcLpn8q7bqQyobeztSQ1","currency":"btc","amount":"0.013215","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.67071773000001","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.67071773000001","time_left":"10 minuten"}}
+26-06 20:36:37: test
+26-06 20:36:37: {"token":"b214cf1450d308370e36492dec00e41a5acfd8b0a59b84945804c572ef4939cb","invoice":{"address":"n4MGHzDPSpSHCVPHTsjniAuvVZAFBRYRWW","currency":"btc","amount":"0.013241","amount_in_fiat":"1.0","received_amount":"0.0","exchange_rate":"75.5254911","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":"0.013241","redirect_uri":null,"received_amount_in_fiat":"0.0","time_left":"10 minutes"}}
+26-06 20:37:00: test
+26-06 20:37:14: test
+26-06 20:37:14: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mnxj6Cw4uAKTzDbQ2c7RmVzRQ2BpaDyG1d","currency":"btc","amount":"0.013191","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.80830084999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.80830084999999","time_left":"10 minuten"}}
+26-06 20:38:35: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"muGV1Mpb4LVdu4bBCQySnwh6vNrbn9bzAn","currency":"btc","amount":"0.013192","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.80065734","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.80065734","time_left":"10 minuten"}}
+26-06 20:40:50: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mzH2cSmaaMBTH98jDdZ6ARxp3V3MdP5cLQ","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:41:19: 
+26-06 20:41:50: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"n3UT1o9E348KqxYJ1AnU6F7J3vgkLRHMv2","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:42:13: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mqQCJG2aeMPpDYyoTRmSt5B6t9wNceV7zB","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:42:26: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mvEbu4Xc2cSFfY98Q63huoUvdnbWCBBf6D","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:42:44: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"my1gDs8hqenN3UPdyrgzm6vWvhGDy8QvM8","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:43:01: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"n1m5JHywiHRnTMRVshbxsBkck9EXr6DhuB","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:43:16: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mo7rExXjbxLNcuEsmEXiQrhuuAEzK3wLSu","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:44:07: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mmtPLBYVnaV9LG18WjZJBiq7Q7V96WgEiW","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:44:07: test
+26-06 20:44:30: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"n2iBXhFMhYCgj1mibxzBottQe8jxfbuTK1","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:44:30: test
+26-06 20:44:50: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mpewSaK82AZPXr5Gznx7jV1hi91242TZUd","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:44:50: test: 
+26-06 20:45:13: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mzB8yQp2sT3tYmq8zRVcQGUuyrF5ySyECR","currency":"btc","amount":"0.013239","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.5331346","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.5331346","time_left":"10 minuten"}}
+26-06 20:45:50: 
+26-06 20:45:50: test: null
+26-06 20:46:00: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mpqP99KqXbXwDCFpNGeJeE1bkQaucVpaKf","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}}
+26-06 20:46:16: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"mfcDrJecLbko4tGSKFaB11tyfY3G4B3cog","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}}
+26-06 20:46:16: test: {"address":"mfcDrJecLbko4tGSKFaB11tyfY3G4B3cog","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}
+26-06 20:46:29: {"token":"32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d","invoice":{"address":"msDgkGjjJ3joGfZAWe1mTNGAWdGMvgxZXk","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}}
+26-06 20:46:29: test: {"address":"msDgkGjjJ3joGfZAWe1mTNGAWdGMvgxZXk","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}
+26-06 20:47:27: 09367d4b49ae1f1d9ee0a326bd3619f111.0
+26-06 20:48:07: 32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d
+26-06 20:48:31: 32512c8d1e046a462c51b853e3065234a0ab9e85ae66fdc0519e915aade9624d
+26-06 20:48:31: {"address":"mxpZ1MgGbNR7QyKDDN8FDqtfVRagYz1yNi","currency":"btc","amount":"0.013171","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.92295344999999","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.92295344999999","time_left":"10 minuten"}
+26-06 20:51:20: old?
+26-06 20:52:54: 
+26-06 20:54:09: integrity
+26-06 20:54:09: wut?
+26-06 20:54:15: integrity
+26-06 20:54:15: wut?
+26-06 20:54:39: integrity
+26-06 20:54:39: wut?
+26-06 20:55:32: encryption
+26-06 20:57:30: encryption
+26-06 20:58:04: encryption
+26-06 20:58:22: encryption
+26-06 20:59:10: encryption
+26-06 20:59:46: encryption
+26-06 21:00:37: 
+26-06 21:00:56: encryption
+26-06 21:01:18: encryption
+26-06 21:01:18: 
+26-06 21:01:29: encryption
+26-06 21:01:47: encryption
+26-06 21:01:47: EEEEE
+26-06 21:02:27: encryption
+26-06 21:02:27: wut?
+26-06 21:02:37: encryption
+26-06 21:02:37: wut?
+26-06 21:02:57: encryption
+26-06 21:03:40: encryption
+26-06 21:03:40: wut?
+26-06 21:04:14: encryption
+26-06 21:04:14: wut?
+26-06 21:06:59: encryption
+26-06 21:06:59: {"iv":"0.79748728266379","payload":"1iiA2G9VRlsS\/NEvQDAUctmbQw6+LOKn\/RylaClKU01W8n\/6UQTqul\/JPPPp\nOPwSRMoPMvS1YEFzbCKAmRJrrwso9NcCyWg\/pdoFLQx0fZ7qIMvqT0xd4bSa\nhgSNMRbZi+B7Og4EwIM55ERZaMncr8TE1bwqADcRKaK2KAyI9dcY+36\/1XEZ\nj560WYh+b8Yg+h0WnqVvm2WH2IsQttxwJyiHgQKmGRlAli59ag2qdFWN260S\nnwwowPInCUKUkxB6x0dedrTxmJKGpmaqtpzADAOH8Icrxkn77p5ZPXOZMIOO\nWlrvFWoWrq+7fD01Hq0lqkuGYCpnqi3DSV3iAEO+NSz1CtGm2UEO8iOU3Z8L\nlTEMjq2ZWger2TR3knCNmn\/ZbF2kN0xtADaZCiozcALpkZfdbZ8NWvQeED1o\n51eVWhzZiz7W1xn+lf562mUSRTsIbsrlyNR8H5BZIGcdqt8InHNFXdWk6B4O\naW2RNtX87lSRlQokhn0=\n"}
+26-06 21:07:44: encryption
+26-06 21:08:07: encryption
+26-06 21:08:45: encryption
+26-06 21:08:56: encryption
+26-06 21:08:56: 
+26-06 21:08:56: 
+26-06 21:09:05: encryption
+26-06 21:09:05: {"iv":"0.77017781651278","payload":"VboFAndKmtxYiFUnLp4abEzlDwCZr7bV5yjNwI3CU433CZETxLsReDLVcYaQ\nbTUkSGB5l8LYwv+umkJrDMrdXl0K4z2vZY5Rq33nL24t\/0jn+mCy69G6o3fv\n6lkBQiL1rjrrA7AlLDqlNOP1X0fu70aZ8sgrsSLJHa0EJVm6owjJU6KWzVT6\nKZChuGkwtaUAVEZX1qrPIBkKeymHVpwPP3fEZx0wZa8rK\/sAV7Rgh5BxWS8L\nsV6cd+TfZKR6PdwFQREDpdIbwYyqQjHlD10xiHtG9wou24rBYRp5YI69fq2U\n48+HBmCZZH+4JhvtElCv2GHntC21lW68CkuKNg4RsLs7A3q35M3pb8liX7rx\nK9oHzDsa3LFgpVvK57sdG+jht53AIOTW05n2Krqf38PLGn9PN3za8zM41f3s\nzpyD0zLaJhSpiHXySjjHG74eSXlEuebfoZrKJHcT0Khjpxh1yP5zq37LoG\/T\nKsrYFhbQse9Q1wkNR3s=\n"}
+26-06 21:11:56: encryption
+26-06 21:11:56: {"iv":"0.19065564147873","payload":"xCfvt7oF8+vIzmbjhh4el8gzH7dkBWibOnYxNwLuzFvAbkSbxRL0eQuo574S\nUEEZ1zUdj+jV+a3bIXo5l9V90FLR+l1fsbRgLkFEJLLKcr1fuI4eStaIv8g8\nC7MvprPDSySQOkCA1eCc+wV17HXny5w5AwvR0t98IIsyNmUIbdbo52XzKay7\nE8jLiIMzI2qVFdHsCglFT5ycQGVJfJj+RUVt80uDvUYuyNKWMOZ9ZTR+bPjH\nsS6m29eRErrVRSfWupuq0hXeoBDPK9lc8DgsocwwqCvLiMkUvkxckyAhBSyi\noz7rClSDgYhuHIGNaiSCy9Adcd2dPgUFoAcZ91YJOGG73AGYr4+VTtaSHNr3\nnE9Z5kXzh\/0ey0Frfe6Mo\/42+g5L1P9ndaQdZ23te2T5nLFalONDIuDAi+rb\n4qoEMl6tJV+NxpiyyN2svK4T2xkNtriPxvphpWGM5sPppsS1CmnP3ehWGlVg\nwSl2W0LThGwJFS0MdaY=\n"}
+26-06 21:12:51: encryption
+26-06 21:12:51: {"iv":"0.33613735184947","payload":"\/sj5qXk+NxuLvW2armxBgPXa2ARR5IqMay2hBfRAVozKeLF09MPxTnVfv\/De\nW3Shvk15Zn0oShyCBTXJL2h\/Jge7G8ANIrDxIft4RtOP1k4hYZNbPOjAI4Iw\n4FlP0MfUDuYCTjsFEgBtMWBpVZpCn8PQyoYEJRqmsnQp0q4SYt8pcgBV9xgZ\nHKT6oeA6T8VMNcU8y9AAu07Ff1ZjtyeNFhKoEAuk60HXo4N8ICjtdpEQ+Hwl\nVw3kSLeFzsAmrLLt7r\/7zGAsE3dsiAaF+\/gsxAKIUJUtPjtWts+Z6yHWAjD5\n2YxOHThan8rS4FH+bhOzuqMoCuBBEwYH1bIhVWYT8HmhWI9zsII4C1v2v0j9\nvhdxSzY3yamYrq6IJ+KK4wl\/5w7KJsuGLxZyw98DCjNRHSJZI3HnfA3UxqL7\nw3mVa5+Ct6D3tq7a7gUBATZ5gmsPMsKMBI1UUGeSSPRF+KJujRKp6tHmynK0\nSTYgaQtvRMKKz50TFwc=\n"}
+26-06 21:12:51: 
+26-06 21:16:06: encryption
+26-06 21:16:06: {"iv":"0.53186556290144","payload":"fhDwrYtMFsuVbhTPNgFygpARny\/0fPggugaEGwb1APZF2gcbdQJ3X1uArU2x\nGUtLrYOvR2qbDukXSPem9Bwnip73lUTDFT50D9qIp0zoM9eqWlvu+VjyJQwC\nnxq21t7N1rPfNxH4oTcm1x5Q3KBbb3aWjY9jSQ8LhPfCEWytPz\/6wYfnGn27\nXqf8bja24DfVK2ke2ccI+3I7noLMGwnPdAL+3aQwFjFsrP1WAeJyxqOOU7Sc\ngfrunL+bh2HLT+xq7sLi5uI1rtBzQkjXoyJGfCzhxyoryDXtUr3\/wrXyIM\/4\n7p53V4KN6m9t+Y9Z+OQQy4R1hMRZ1FRQsSf3uXQq2ebbLTX8ge6XHS5IT3DB\nUE9r3uhM4mTFoufLNhY\/\/j9VHytf5k1ZwDFIcxSo4+Q3IZd7Nx54DA9WiAGU\nOfVkGNHuiZ+WeFPxdmmTlWVvhqjNYgf8kf9BkgBj9MwWn3vOeNrkCljOaQdp\nCFv1gX4ImzDeVFFuZcM=\n"}
+26-06 21:16:06: 
+26-06 21:16:06: 
+26-06 21:16:33: encryption
+26-06 21:16:33: {"iv":"0.50817134722675","payload":"mkLchV3DuZiZMbetX+bxg7RjQESRJeCqFl3TlZYhdKwBoo3ysbsI4T8FiIvx\nSOys93KpYUVAZPYD6ppfJgguCmOLSO8T+X7twq7hIWj3TUJbdAsW89XQ\/RDz\nIe+TiKpLmSz87dzqPNl9f+bLldfc\/Nq7P0GDDE1\/7NzyacMIXHZKiUVpF3VV\nhq\/ytapJbPye1mh1Yhwxu9p7BOPHHxvW3dPy3HqwQIOwjH1FYSLhIqTQwGs2\naw6WcoJ+uRdCvTW4edm3LfIr\/8WbXToiRFnUphOjtrU8weaOE8BFrgieXxty\nnsQjCcQSSvwpdgmzAylRDgWi7FiSilSL9bq7YdxfxS1YG+5b1f+OfdOTR6BM\nvP8Yosl7ZDMlanU0aNisxR8SGGHtWpMr4xkw+e6oxxlsovE1SdlyZ9odll4B\nl84kv0NkNYYQsH4PozDI9r+rKes2xc3EKf6NONZC+\/FNHf+i1\/tR7K9wIxuZ\nwDD5gR+LNJQmzC3Jd30=\n"}
+26-06 21:16:33: d is : 
+26-06 21:16:33: 
+26-06 21:18:19: encryption
+26-06 21:18:19: {"iv":"0.83126390887709","payload":"U1TdQ4mwATvz8vBJYmkwwBr3O16sMDN60E8dDh7N4psxA6uHS+eApre1EDkj\n+lTaTT2DKBjWLUqhYSazaoJNfkNunY5wyF+b\/lYo4IDknjwmPpuzIhJkSPkC\nB8XFkopxYFgKpwx4qo5HsmfziDG1MqgPY\/5tlls3xt7Kd4gMp50b9ttqloK5\nJ8e\/3BnwSXt5RzWVP\/br8zVcDE6tHHMUqcHm94swym+gulzwNT4Z55dy6nB8\nyeBcIP9E9ju+4INj0WbyenD14mr35U0TCESGN2h4pqJelNZ9LSCwuoqHKvEZ\nOkFbD9UUZGsr1zHFHF76ouRdPWf1VviRDQfgkcaVS8typrwvt1gaSdLv6eLR\nj5SReflnkCabUxdbCINQdTOl4mQVsB2yfgY7gCgbhIuakfchJ+XsE7NfxrHm\nD+kxfcmWeOCMtHvF6OVAvD6jh+3KJCjPeYOuXdfOjRwqN+Mq5NfoKIPGH+eQ\nMyo8gC4Gwf1TDK7FidA=\n"}
+26-06 21:18:19: d is : 5.3.1
+26-06 21:18:19: 
+26-06 21:20:50: encryption
+26-06 21:20:50: {"iv":"0.33309588337871","payload":"qLnwoRxSs9KBqPkwXeevA2VTtzPwTmHZugtpo8nF+rE4xhfnE95Z9B4MBtO2\n9E2c5yJUnYk2rQzYr9fP2fC6th7CqchmmsI\/3HKj9QVQCqDnu3sbq1t63nnQ\npbh35b1qRdw+XYsRfLfv3SVNMKtJJYzvxljG\/i10zowFuqawCKEJXYs7WlDB\nCR\/HcHk7tnpWl1jGruxc4MoghHqufDou+LpYMlcLAGkgD2Aw3+Xnzqg3j4tr\npQ5uxTUEjyk1\/Tf5DITpljhA1N3nLYGDAJ3kA+7iF7J+huR6RAhur8pKxtCz\nKpdSeiPvNHnQQmn1++A53H2mqNQ6UFZkyxbSnAh9HSp\/ddNPpmqEymP73xm+\nIOzixzDhRj2bE1Dzrn4e4DWw\/FCYT3YtV245Krhw9E1y9CRH0eLfjxVjtsrp\nki6Y5P4waKdwx+GfMITcWRX0wTk\/03Pl2ySN312WeJ3Djl7tN0yavP0U3SY1\nlgs04bOZs9oY3XhQrTs=\n"}
+26-06 21:20:50: 
+26-06 21:21:24: encryption
+26-06 21:21:24: 
+26-06 21:21:38: encryption
+26-06 21:21:38: 
+26-06 21:21:47: encryption
+26-06 21:21:47: 
+26-06 21:24:31: encryption
+26-06 21:24:31: 
+26-06 21:25:53: encryption
+26-06 21:25:53: 
+26-06 21:26:06: encryption
+26-06 21:26:06: 
+26-06 21:26:27: encryption
+26-06 21:26:27: 
+encryptionencryption8Q=Â≈±H|ΩÍm•rL	ÎvnDrEH8uZs8eZjNSR4EZxsw4CPKjFp","currency":"btc","amount":"0.01325","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.47198655","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.47198655","time_left":"10 minuten"}encryption
+ÓÈ;Ù†rûÙœ«
+n8ãioHewxZokTcLoKkNvvzd8Hr8DWR4vm","currency":"btc","amount":"0.01325","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.47198655","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.47198655","time_left":"10 minuten"}
+
+encryption
+
+encryption
+
+encryption
+-¡∂È¿∏MÓco8’◊xN1x5uMySt9uQkjTpzjg1LCkSqhk5z","currency":"btc","amount":"0.01325","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"75.47198655","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"75.47198655","time_left":"10 minuten"}
+
+encryption
+mÄòπ«1'6A.°Ô∏EHkASjYSiEBTbrNF3bu5XrFRW8e74Vq","currency":"btc","amount":"0.013157","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"76.00703203","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"76.00703203","time_left":"10 minuten"}
+
+encryption
+≤")™pqç¬D∏π^…XHR5ntSYxL4NDMM1Qp4GT8s2vjPUuM","currency":"btc","amount":"0.013157","amount_in_fiat":"1.0","received_amount":"1.0","exchange_rate":"76.00703203","description":null,"external_id":"1","status":1,"expired":true,"internal_id":"1","seen":false,"confirmed":true,"amount_left":0,"redirect_uri":null,"received_amount_in_fiat":"76.00703203","time_left":"10 minuten"}
+

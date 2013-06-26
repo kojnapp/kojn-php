@@ -33,28 +33,6 @@ class Kojn {
     self::$crypto = null; // new KojnCrypto();
   }
 
-  public static function ipn($data) {
-    Kojn::log(Kojn::$ipn_sec);
-
-    if(Kojn::$ipn_sec == "integrity") {
-      Kojn::log("EEEEE");
-      $invoice = $data->invoice;
-
-      $str = Kojn::$api_key . $invoice->internal_id . $invoice->received_amount;
-      $hash = hash('sha256', $str);
-
-      if(strcmp($hash, $data->token)) {
-        throw new Exception('ERROR -*- IPN Could not be verified. Please notify Kojn authors. This message has been fabricated. -*- ERROR');
-      }
-
-      return $invoice;
-    }
-    elseif(Kojn::$ipn_sec ==  "encryption") {
-      $crypto = new Crypto();
-      return $crypto->decrypt_params($data);
-    }
-  }
-
   public static function setup($func) {
     self::$_instance = new Kojn();
     $func(Kojn);
@@ -140,6 +118,25 @@ function Kojn_list_invoices($kojn) {
   }
 
   return $invoices;
+}
+
+function Kojn_data_from_ipn($kojn, $data) {
+  if(Kojn::$ipn_sec == "integrity") {
+    $invoice = $data->invoice;
+
+    $str = Kojn::$api_key . $invoice->internal_id . $invoice->received_amount;
+    $hash = hash('sha256', $str);
+
+    if(strcmp($hash, $data->token)) {
+      throw new Exception('ERROR -*- IPN Could not be verified. Please notify Kojn authors. This message has been fabricated. -*- ERROR');
+    }
+
+    return $invoice;
+  }
+  elseif(Kojn::$ipn_sec ==  "encryption") {
+    $crypto = new Crypto();
+    return $crypto->decrypt_params($data);
+  }
 }
 
 ?>
