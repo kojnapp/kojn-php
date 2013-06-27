@@ -14,7 +14,6 @@ Feel free to fork, modify & redistribute under the MIT license.
 ```php
 include_once('kojn.php');
 ```
-    
 
 ## Usage
 
@@ -30,6 +29,10 @@ $kojn = Kojn::setup(function($config) {
   $config::$ipn_sec = "integrity";
 });
 ```
+
+The `ipn_sec` should be set to either `integrity` or `encryption`. If
+you'd like to receive encrypted ipns make sure you enable "Secure IPN"
+on your Kojn developer page.
     
 ### Listing invoices
 
