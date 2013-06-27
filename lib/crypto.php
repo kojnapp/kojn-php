@@ -1,35 +1,36 @@
 <?php
-  class Crypto {
-    private $access_token;
-    private $crypt_method;
-    private $kojn;
 
-    public function __construct() {
-      $this->access_token = Kojn::$api_key;
-      $this->crypt_method = "AES-256-CFB";
-    }
+class Crypto {
+  private $access_token;
+  private $crypt_method;
+  private $kojn;
 
-    public function decrypt_params($params) {
-      return $this->decrypt(base64_decode($params->payload), $params->iv);
-    }
+  public function __construct() {
+    $this->access_token = Kojn::$api_key;
+    $this->crypt_method = "AES-256-CFB";
+  }
 
-    public function decrypt($data, $iv) {
-      $d = openssl_decrypt($data, $this->crypt_method, $this->access_token, OPENSSL_RAW_DATA, $iv);
+  public function decrypt_params($params) {
+    return $this->decrypt(base64_decode($params->payload), $params->iv);
+  }
 
-      return json_decode($d);
-    }
+  public function decrypt($data, $iv) {
+    $d = openssl_decrypt($data, $this->crypt_method, $this->access_token, OPENSSL_RAW_DATA, $iv);
 
-    public function encrypt_params($params) {
-      $iv = strval(mt_rand() / mt_getrandmax());
+    return json_decode($d);
+  }
 
-      return array("iv" => $iv, "payload" => base64_encode($this->encrypt($params, $iv)));
-    }
+  public function encrypt_params($params) {
+    $iv = strval(mt_rand() / mt_getrandmax());
 
-    public function encrypt($data, $iv) {
-      return openssl_encrypt(json_encode($data), $this->crypt_method, $this->access_token, OPENSSL_RAW_DATA, $iv);
-    }
+    return array("iv" => $iv, "payload" => base64_encode($this->encrypt($params, $iv)));
+  }
 
-    // Static
+  public function encrypt($data, $iv) {
+    return openssl_encrypt(json_encode($data), $this->crypt_method, $this->access_token, OPENSSL_RAW_DATA, $iv);
+  }
+
+  // Static
     /*
     public static function encrypt($api_key, $data) {
       $kojn = new Crypto($api_key);
@@ -43,5 +44,5 @@
       return $kojn->decrypt_params($data);
     }
      */
-  }
+}
 ?>

@@ -24,7 +24,10 @@ Set your API key (which you can find on your Kojn developer page).
 
 ```php
 $kojn = Kojn::setup(function($config) {
+  // API Key
   $config::$api_key = "YOUR_API_KEY"; 
+  // IPN Security type
+  $config::$ipn_sec = "integrity";
 });
 ```
     
