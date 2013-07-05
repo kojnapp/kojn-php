@@ -35,6 +35,10 @@ class Kojn {
 
   public static function setup($func) {
     self::$_instance = new Kojn();
+    Kojn::$host = "https://kojn-app.com";
+    Kojn::$port = 443;
+    Kojn::$ssl = true;
+
     $func(Kojn);
 
     Kojn::getInstance()->init_base();

@@ -9,23 +9,20 @@ Kojn::log($test_object);
 
 $kojn = Kojn::setup(function($config) {
   Kojn::log("in #setup - Setting up kojn");
-  $config::$api_key = "09367d4b49ae1f1d9ee0a326bd3619f1";
+  $config::$api_key = "faa4793da011c771b9d9284941a0290d";
   $config::$ipn_sec = "integrity";
-
-  $config::$host    = "localhost";
-  $config::$port    = 3000;
-  $config::$ssl     = false;
 });
 
-Kojn_data_from_ipn($kojn, Kojn_json());
+#Kojn::log("Fetching all transactions");
+#var_dump(Kojn_list_invoices($kojn));
 
-Kojn::log("Fetching all transactions");
-var_dump(Kojn_list_invoices($kojn));
-
-Kojn::log("Creating new invoice");
+#Kojn::log("Creating new invoice");
 var_dump(Kojn_create_invoice($kojn, array(
-  "amount_in_euro" => 1,
-  "description" => "Test invoice"
+  "amount_in_fiat" => 1,
+  "description" => "Test invoice",
+  "external_id" => 4,
+  "currency" => "btc",
+  "source_currency" => "eur"
 )));
 
 ?>
