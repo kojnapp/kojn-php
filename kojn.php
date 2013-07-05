@@ -11,6 +11,8 @@ class Kojn {
   const Ipn = Test;
 
   const debug = true;
+  const INTEGRITY = 'integrity';
+  const ENCRYPTION = 'encryption';
 
   // host (for debug purposes)
   public static $host;
@@ -37,6 +39,7 @@ class Kojn {
     self::$_instance = new Kojn();
     Kojn::$host = "https://kojn-app.com";
     Kojn::$port = 443;
+    Kojn::$ipn_sec = Kojn::INTEGRITY;
     Kojn::$ssl = true;
 
     $func(Kojn);

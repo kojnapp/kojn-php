@@ -10,8 +10,9 @@ Kojn::log($test_object);
 $kojn = Kojn::setup(function($config) {
   Kojn::log("in #setup - Setting up kojn");
   $config::$api_key = "faa4793da011c771b9d9284941a0290d";
-  $config::$ipn_sec = "integrity";
+  //$config::$ipn_sec = "integrity";
 });
+Kojn::log(Kojn::INTEGRITY);
 
 #Kojn::log("Fetching all transactions");
 #var_dump(Kojn_list_invoices($kojn));
